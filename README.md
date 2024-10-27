@@ -1,5 +1,5 @@
-# Seamless collaboration: Real-time Editing, federated learning,vand FTP integration
-This project facilitates seamless, multi-user collaboration through a combination of real-time editing, federated learning, and secure file handling with FTP. Aimed at distributed teams, it prioritizes both the efficiency of document workflows and the security of data management.
+# Google Meet Clone
+This project is a simplified clone of Google Meet, allowing multiple users to connect via video calls, share screens, and send messages in real-time. Using Node.js, Express, and Socket.IO, the app provides a collaborative virtual meeting environment. The project also integrates file upload functionality, giving users the ability to share files during the call.
 
 <img width="191" alt="seamless collaboration" src="https://github.com/user-attachments/assets/8d1f5758-2746-42e9-a838-b09c63cf0ba7">
 
@@ -7,11 +7,12 @@ This project facilitates seamless, multi-user collaboration through a combinatio
 
 
 ## Project Features
-Real-Time Editing: Supports concurrent document editing, allowing multiple users to make changes simultaneously. Updates are synchronized instantly across sessions, fostering smooth teamwork and minimizing issues with version control.
+**Real-Time Video and Audio**: Connect and communicate in real-time.
+- **Chat Functionality**: Send messages to participants during the meeting.
+- **Screen Sharing**: Share your screen with others in the call.
+- **File Uploads**: Easily upload and share files with participants.
+- **Responsive Design**: Optimized for various screen sizes, enhancing usability across devices.
 
-Federated Learning: Utilizes federated learning to enhance the collaborative editing experience by learning from user interactions without compromising privacy. Each user’s local data contributes to optimizing the system collectively, while keeping individual data secure.
-
-FTP Integration: Incorporates FTP (File Transfer Protocol) for secure file management, enabling reliable upload, retrieval, and storage across servers. This ensures accessibility and document safety in various network settings.
 
 ## Prerequisites
 
