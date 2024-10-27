@@ -42,11 +42,17 @@ Install the necessary packages for the project by running:
 Once the dependencies are installed, start the server with the command:
 - **`npm start`**
 
+   ![Screenshot 2024-10-27 142752](https://github.com/user-attachments/assets/29cb6fe4-be62-4e2e-805b-434266f04426)
+
+
 ### Step 5: Access the Project in the Browser
 Open a web browser and navigate to the following URL to access the project:
 - **`http://localhost:3000/action.html`**
 
   ![Screenshot 2024-10-27 141418](https://github.com/user-attachments/assets/aeb53d2e-3408-4161-917f-0b286653d798)
+
+  #### Example:
+  
 
   
 
