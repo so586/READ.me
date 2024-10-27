@@ -3,15 +3,20 @@ This project is a simplified clone of Google Meet, allowing multiple users to co
 
 <img width="191" alt="seamless collaboration" src="https://github.com/user-attachments/assets/8d1f5758-2746-42e9-a838-b09c63cf0ba7">
 
-
-
-
 ## Project Features
 **Real-Time Video and Audio**: Connect and communicate in real-time.
 - **Chat Functionality**: Send messages to participants during the meeting.
 - **Screen Sharing**: Share your screen with others in the call.
 - **File Uploads**: Easily upload and share files with participants.
 - **Responsive Design**: Optimized for various screen sizes, enhancing usability across devices.
+
+  ## Technologies Used
+
+- **Node.js** and **Express**: For server-side handling and routing.
+- **Socket.IO**: For real-time communication between clients.
+- **Express-FileUpload**: To handle file upload functionality.
+- **HTML/CSS and JavaScript**: For the client-side interface and interactivity.
+
 
 
 ## Prerequisites
