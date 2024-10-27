@@ -1,6 +1,9 @@
 # Seamless collaboration: Real-time Editing, federated learning,vand FTP integration
 This project facilitates seamless, multi-user collaboration through a combination of real-time editing, federated learning, and secure file handling with FTP. Aimed at distributed teams, it prioritizes both the efficiency of document workflows and the security of data management.
 
+<img width="191" alt="seamless collaboration" src="https://github.com/user-attachments/assets/8d1f5758-2746-42e9-a838-b09c63cf0ba7">
+
+
 ## Project Features
 Real-Time Editing: Supports concurrent document editing, allowing multiple users to make changes simultaneously. Updates are synchronized instantly across sessions, fostering smooth teamwork and minimizing issues with version control.
 
