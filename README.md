@@ -53,6 +53,7 @@ Open a web browser and navigate to the following URL to access the project:
 
   #### Example:
   
+![Screenshot 2024-10-27 142706](https://github.com/user-attachments/assets/ac3f9e6e-f076-47c9-a094-2cb6c45552b1)
 
   
 
