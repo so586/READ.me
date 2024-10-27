@@ -45,5 +45,8 @@ Once the dependencies are installed, start the server with the command:
 ### Step 5: Access the Project in the Browser
 Open a web browser and navigate to the following URL to access the project:
 - **`http://localhost:3000/action.html`**
+
+  ![Screenshot 2024-10-27 141418](https://github.com/user-attachments/assets/aeb53d2e-3408-4161-917f-0b286653d798)
+
   
 
